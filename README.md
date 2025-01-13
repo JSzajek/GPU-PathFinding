@@ -25,6 +25,11 @@ Run GenerateProjects.bat
 Open the generated .sln file and build the project.
 
 ## **Current State**
+- Heuristic Path Finding
+
+<img src="/OutputExample/Heuristic_PathFinding.gif" alt="Heuristic_PathFinding" width="512"/>
+
+Works but doesn't handle navigating around hard edges well.
 
 
 ## **License**
