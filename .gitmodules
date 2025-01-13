@@ -1,0 +1,6 @@
+[submodule "vendor/opencl_lib"]
+	path = vendor/opencl_lib
+	url = https://github.com/JSzajek/OpenCL-Lib-fork.git
+[submodule "vendor/opencv_lib"]
+	path = vendor/opencv_lib
+	url = https://github.com/JSzajek/OpenCV-Lib-fork.git
